@@ -1,2 +1,2 @@
 React JS Important Notes will be coming here.....
-It covers all basics, advanced and expert level projects
+It covers all basics, advanced and expert level projects.
